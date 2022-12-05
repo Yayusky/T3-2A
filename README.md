@@ -11,6 +11,6 @@ Entrada: DiaInicio DiaFinal HoraInicio HoraFinal Proceso Diferencia de horas del
 | | +------------------------------------------------------------------+
 
 # Etapa 03. Diseño de la solucion.
-![](https://github.com/Yayusky/T3-2A/blob/main/T3A2.diagrama..png?raw=true)
+![](https://github.com/Yayusky/T3-2A/blob/f52ca7f4521f596d1ad9f2ea5168cc49b9a8638e/Main.png)
 
 # Etapa 04. Desarrollo de la solucion.
